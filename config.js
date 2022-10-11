@@ -15,7 +15,7 @@
 // • ImYanXiao
 // • WH MODS DEV
 // • Xtreshe
-// • Dll
+// • Yiksz
 
 //[!] Jangan Lupa Ganti Ownernya
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62881025400447', 'Zenss', true], 
+  ['62881025400447', 'Yiksz', true], 
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
